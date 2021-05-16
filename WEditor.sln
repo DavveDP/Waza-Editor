@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEditor", "WEditor\WEditor.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7D3941B3-0AD3-4C71-ACFF-4D44787D2A06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APNGLib", "..\..\source\repos\APNGManagement\APNGLib\APNGLib.csproj", "{BCD511C5-438E-4954-ACAD-EF6456513FFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APNGLib", "APNGLib\APNGLib.csproj", "{BCD511C5-438E-4954-ACAD-EF6456513FFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,5 @@
+C:\Users\David\source\repos\APNGManagement\APNGLib\bin\Debug\APNGLib.dll
+C:\Users\David\source\repos\APNGManagement\APNGLib\bin\Debug\APNGLib.pdb
+C:\Users\David\source\repos\APNGManagement\APNGLib\obj\Debug\APNGLib.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\APNGManagement\APNGLib\obj\Debug\APNGLib.dll
+C:\Users\David\source\repos\APNGManagement\APNGLib\obj\Debug\APNGLib.pdb
