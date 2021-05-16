@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<RomDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <roms>
+    <Rom>
+      <Id>CPUE</Id>
+      <FullName>Pokémon Platinum Version</FullName>
+      <Region>USA</Region>
+      <WazaFolderPath>data\wazaeffect\wearc</WazaFolderPath>
+      <WazaNarcPath>data\wazaeffect\we.arc</WazaNarcPath>
+      <TextBankFolderPath>data\msgdata\pl_msg</TextBankFolderPath>
+      <TextBankNarcPath>data\msgdata\pl_msg.narc</TextBankNarcPath>
+      <TextBank>647</TextBank>
+    </Rom>
+    <Rom>
+      <Id>IPKE</Id>
+      <FullName>Pokémon HeartGold Version</FullName>
+      <Region>USA</Region>
+      <WazaFolderPath>data\a\0\1\0_ext</WazaFolderPath>
+      <WazaNarcPath>data\a\0\1\0</WazaNarcPath>
+      <TextBankFolderPath>data\a\0\2\7_ext</TextBankFolderPath>
+      <TextBankNarcPath>data\a\0\2\7</TextBankNarcPath>
+      <TextBank>750</TextBank>
+    </Rom>
+  </roms>
+</RomDatabase>

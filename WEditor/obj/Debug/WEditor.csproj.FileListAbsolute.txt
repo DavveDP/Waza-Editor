@@ -1,0 +1,187 @@
+C:\Users\kh911\Desktop\WEditor\WEditor\bin\Debug\WEditor.exe.config
+C:\Users\kh911\Desktop\WEditor\WEditor\bin\Debug\WEditor.exe
+C:\Users\kh911\Desktop\WEditor\WEditor\bin\Debug\WEditor.pdb
+C:\Users\kh911\Desktop\WEditor\WEditor\obj\Debug\WEditor.csprojAssemblyReference.cache
+C:\Users\kh911\Desktop\WEditor\WEditor\obj\Debug\WEditor.About.resources
+C:\Users\kh911\Desktop\WEditor\WEditor\obj\Debug\WEditor.Form1.resources
+C:\Users\kh911\Desktop\WEditor\WEditor\obj\Debug\WEditor.Properties.Resources.resources
+C:\Users\kh911\Desktop\WEditor\WEditor\obj\Debug\WEditor.csproj.GenerateResource.cache
+C:\Users\kh911\Desktop\WEditor\WEditor\obj\Debug\WEditor.csproj.CoreCompileInputs.cache
+C:\Users\kh911\Desktop\WEditor\WEditor\obj\Debug\WEditor.exe
+C:\Users\kh911\Desktop\WEditor\WEditor\obj\Debug\WEditor.pdb
+C:\Users\kh911\Desktop\WEditor\WEditor\obj\Debug\WEditor.Settings.resources
+C:\Users\kh911\Desktop\WEditor\WEditor\obj\Debug\WEditor.Form2.resources
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\bin\Debug\WEditor.exe.config
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\bin\Debug\WEditor.exe
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\bin\Debug\WEditor.pdb
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\bin\Debug\Gen4TX.pdb
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.csprojAssemblyReference.cache
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.About.resources
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.Form1.resources
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.Form2.resources
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.Properties.Resources.resources
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.Settings.resources
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.csproj.GenerateResource.cache
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.csproj.CoreCompileInputs.cache
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.csproj.CopyComplete
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.exe
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.pdb
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.KnownFunction.resources
+C:\Users\kh911\Desktop\My tools\WEditor\WEditor\obj\Debug\WEditor.AnmList.resources
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.exe.config
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.exe
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.pdb
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\Gen4TX.pdb
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csprojAssemblyReference.cache
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.About.resources
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.AnmList.resources
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Form1.resources
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Form2.resources
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.KnownFunction.resources
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Properties.Resources.resources
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Settings.resources
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.GenerateResource.cache
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.CoreCompileInputs.cache
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.CopyComplete
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.exe
+C:\Users\kh911\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.pdb
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.exe.config
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.exe
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.pdb
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\bin\Debug\Gen4TX.pdb
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csprojAssemblyReference.cache
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.About.resources
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.AnmList.resources
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Form1.resources
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Form2.resources
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.KnownFunction.resources
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Properties.Resources.resources
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Settings.resources
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.GenerateResource.cache
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.CopyComplete
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.exe
+C:\Users\David\Downloads\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.pdb
+D:\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.exe.config
+D:\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.exe
+D:\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.pdb
+D:\WazaEffect\WEditor\WEditor\bin\Debug\Gen4TX.pdb
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csprojAssemblyReference.cache
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.About.resources
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.AnmList.resources
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Form1.resources
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Form2.resources
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.KnownFunction.resources
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Properties.Resources.resources
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Settings.resources
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.GenerateResource.cache
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.CoreCompileInputs.cache
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.CopyComplete
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.exe
+D:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.pdb
+E:\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.exe.config
+E:\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.exe
+E:\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.pdb
+E:\WazaEffect\WEditor\WEditor\bin\Debug\Gen4TX.pdb
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csprojAssemblyReference.cache
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.About.resources
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.KnownFunction.resources
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Properties.Resources.resources
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Settings.resources
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.GenerateResource.cache
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.CoreCompileInputs.cache
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.CopyComplete
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.exe
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.pdb
+E:\WazaEffect\WEditor\WEditor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Buffers.dll
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Memory.dll
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Numerics.Vectors.dll
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Text.Encodings.Web.dll
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Text.Json.dll
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.ValueTuple.dll
+E:\WazaEffect\WEditor\WEditor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Buffers.xml
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Memory.xml
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Numerics.Vectors.xml
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Text.Encodings.Web.xml
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Text.Json.xml
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\WazaEffect\WEditor\WEditor\bin\Debug\System.ValueTuple.xml
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.AnimList.resources
+E:\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.WEMainWindow.resources
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.exe.config
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.exe
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\WEditor.pdb
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\Gen4TX.pdb
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csprojAssemblyReference.cache
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.About.resources
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.AnimList.resources
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.WEMainWindow.resources
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.KnownFunction.resources
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Properties.Resources.resources
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.Settings.resources
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.GenerateResource.cache
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.csproj.CopyComplete
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.exe
+C:\Users\David\Desktop\WazaEffect\WEditor\WEditor\obj\Debug\WEditor.pdb
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\WEditor.exe.config
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\WEditor.exe
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\WEditor.pdb
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Text.Json.dll
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\Gen4TX.pdb
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Text.Json.xml
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\System.ValueTuple.xml
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.About.resources
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.AnimList.resources
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.WEMainWindow.resources
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.KnownFunction.resources
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.Properties.Resources.resources
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.Settings.resources
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.csproj.CopyComplete
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.exe
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.pdb
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\HtmlAgilityPack.dll
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\HtmlAgilityPack.xml
+C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.AnimationDatabaseWindow.resources
