@@ -1,0 +1,8 @@
+			"https://cdn2.bulbagarden.net/upload/4/49/Razor_Leaf_PtHGSS.png",
+			"https://cdn2.bulbagarden.net/upload/e/e4/Recover_PtHGSS.png",
+			"https://cdn2.bulbagarden.net/upload/1/1e/Mach_Punch_PtHGSS.png",
+			"https://cdn2.bulbagarden.net/upload/7/75/Hidden_Power_PtHGSS.png",
+			"https://cdn2.bulbagarden.net/upload/b/b7/Rain_Dance_PtHGSS.png",
+			"https://cdn2.bulbagarden.net/upload/f/f5/Uproar_PtHGSS.png",
+			"https://cdn2.bulbagarden.net/upload/1/12/Hail_PtHGSS.png",
+			"https://cdn2.bulbagarden.net/upload/8/85/Spacial_Rend_PtHGSS.png",

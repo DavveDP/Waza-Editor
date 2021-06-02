@@ -19,25 +19,25 @@ namespace WEditor
 {
     public partial class WEMainWindow : Form
     {
-        /*Lang :
-         *English - 0
-         *Spanish - 1
-         *Italian - 2
-         *French  - 3
-         *German  - 4
-         *Korean  - 5
-         *Japanese- 6
-         */
-        public enum Language
-        {
-            English,
-            Spanish,
-            Italian,
-            French,
-            German,
-            Korean,
-            Japanese,
-        }
+        ///*Lang :
+        // *English - 0
+        // *Spanish - 1
+        // *Italian - 2
+        // *French  - 3
+        // *German  - 4
+        // *Korean  - 5
+        // *Japanese- 6
+        // */
+        //public enum Language
+        //{
+        //    English,
+        //    Spanish,
+        //    Italian,
+        //    French,
+        //    German,
+        //    Korean,
+        //    Japanese,
+        //}
         /// =======================================
         /// To Unpack
         /// =======================================
@@ -46,7 +46,7 @@ namespace WEditor
         /// Main
         /// =======================================
         HelpWEMainWindow helpForm = new HelpWEMainWindow();
-        Language language;
+        //Language language;
         List<string> moveAnimNames;
         public static string workingFolder;
         private string folderPath;
@@ -144,7 +144,7 @@ namespace WEditor
                 //}
                 lbRomInfo.Text = rom.ToString();
 
-                LoadAnimations();
+                LoadAnimationFiles();
 
                 SetEnabled(true);
                 lbStatus.Text = "Ready";
@@ -198,9 +198,9 @@ namespace WEditor
                 return Encoding.UTF8.GetString(br.ReadBytes(4));
             }
         }
-        private void LoadAnimations()
+        private void LoadAnimationFiles()
         {
-            List<string> moveAnimNames = new List<string>(Gen4TX.Text.ExtractToList(folderPath + rom.TextBankFolderPath + "\\" + $@"{rom.TextBank:D4}"));
+            moveAnimNames = new List<string>(Gen4TX.Text.ExtractToList(folderPath + rom.TextBankNarcPath, rom.TextBank));
             int fileCount = (int)Directory.GetFiles(folderPath + rom.WazaFolderPath, "*.*", SearchOption.TopDirectoryOnly).Length;
             cbxSelectedAnimFile.Items.Clear();
             for (int i = 0; i < fileCount; i++)
@@ -215,14 +215,9 @@ namespace WEditor
                 }
             }
 
-            LoadAnimationDatabaseWindow(moveAnimNames);
-            
             cbxSelectedAnimFile.SelectedIndex = 0;
         }
-        private void LoadAnimationDatabaseWindow(List<string> names)
-        {
-            AnimationDatabaseWindow animationDatabaseWindow = new AnimationDatabaseWindow(names);
-        }
+        
         private void UnpackROM(string filePath)
         {
             lbStatus.Text = "Unpacking Rom";
@@ -236,7 +231,6 @@ namespace WEditor
             unpack.WaitForExit();
 
             Narc.Open(folderPath + rom.WazaNarcPath).ExtractToFolder(folderPath + rom.WazaFolderPath);
-            Narc.Open(folderPath + rom.TextBankNarcPath).ExtractToFolder(folderPath + rom.TextBankFolderPath);
         }
 
         private void btnSaveRom_Click(object sender, EventArgs e)//Save Rom
@@ -338,6 +332,11 @@ namespace WEditor
             //{
             //    stream.write
             //}
+        }
+
+        private void btnAnimationDatabase_Click(object sender, EventArgs e)
+        {
+            AnimationDatabase.LoadAnimationDatabaseWindow(moveAnimNames);
         }
 
         //==========================================================================================

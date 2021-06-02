@@ -185,3 +185,43 @@ C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\HtmlAgilityPack.dll
 C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\HtmlAgilityPack.pdb
 C:\Users\David\Desktop\Waza Editor\WEditor\bin\Debug\HtmlAgilityPack.xml
 C:\Users\David\Desktop\Waza Editor\WEditor\obj\Debug\WEditor.AnimationDatabaseWindow.resources
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.About.resources
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.AnimationDatabaseWindow.resources
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.AnimList.resources
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.WEMainWindow.resources
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.KnownFunction.resources
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.Properties.Resources.resources
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.Settings.resources
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.exe
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.pdb
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\WEditor.exe.config
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\WEditor.exe
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\WEditor.pdb
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\HtmlAgilityPack.dll
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Buffers.dll
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Memory.dll
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Text.Json.dll
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.ValueTuple.dll
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\Gen4TX.pdb
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\HtmlAgilityPack.xml
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Buffers.xml
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Memory.xml
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Text.Json.xml
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\System.ValueTuple.xml
+C:\Users\David\source\repos\Waza-Editor\WEditor\obj\Debug\WEditor.csproj.CopyComplete
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\APNGLib.dll
+C:\Users\David\source\repos\Waza-Editor\WEditor\bin\Debug\APNGLib.pdb

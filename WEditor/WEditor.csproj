@@ -102,6 +102,9 @@
     <Compile Include="AnmList.Designer.cs">
       <DependentUpon>AnmList.cs</DependentUpon>
     </Compile>
+    <Compile Include="APNGBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="RomDatabase.cs" />
     <Compile Include="WEMainWindow.cs">
       <SubType>Form</SubType>
@@ -171,6 +174,11 @@
     <Content Include="Data\ndstool.exe" />
     <Content Include="platinum0000.ico" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\APNGLib\APNGLib.csproj">
+      <Project>{bcd511c5-438e-4954-acad-ef6456513fff}</Project>
+      <Name>APNGLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

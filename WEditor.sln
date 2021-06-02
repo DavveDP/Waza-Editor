@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEditor", "WEditor\WEditor.csproj", "{9C0EDB64-4315-4BE9-8AB5-743B136FB636}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BCD511C5-438E-4954-ACAD-EF6456513FFF} = {BCD511C5-438E-4954-ACAD-EF6456513FFF}
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7D3941B3-0AD3-4C71-ACFF-4D44787D2A06}"
 EndProject

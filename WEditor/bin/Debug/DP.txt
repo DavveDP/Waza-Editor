@@ -1,0 +1,8 @@
+			"https://cdn2.bulbagarden.net/upload/1/15/Razor_Leaf_DP.png",
+			"https://cdn2.bulbagarden.net/upload/2/25/Recover_DP.png",
+			"https://cdn2.bulbagarden.net/upload/8/84/Mach_Punch_DP.png",
+			"https://cdn2.bulbagarden.net/upload/b/bd/Hidden_Power_DP.png",
+			"https://cdn2.bulbagarden.net/upload/8/83/Rain_Dance_DP.png",
+			"https://cdn2.bulbagarden.net/upload/c/ce/Uproar_DP.png",
+			"https://cdn2.bulbagarden.net/upload/5/5d/Hail_DP.png",
+			"https://cdn2.bulbagarden.net/upload/2/2d/Spacial_Rend_DP.png",

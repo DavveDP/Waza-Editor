@@ -49,6 +49,7 @@
             this.btnRefresh = new System.Windows.Forms.Button();
             this.gbxRomInfo = new System.Windows.Forms.GroupBox();
             this.lbRomInfo = new System.Windows.Forms.Label();
+            this.btnAnimationDatabase = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.gbxRomInfo.SuspendLayout();
@@ -128,7 +129,7 @@
             // 
             this.tsmSettings.Name = "tsmSettings";
             this.tsmSettings.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.S)));
-            this.tsmSettings.Size = new System.Drawing.Size(156, 22);
+            this.tsmSettings.Size = new System.Drawing.Size(180, 22);
             this.tsmSettings.Text = "Settings";
             this.tsmSettings.Click += new System.EventHandler(this.tsmSettings_Click);
             // 
@@ -137,7 +138,8 @@
             this.tsmHelp.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmAbout,
             this.tsmFunctionHelp,
-            this.tsmAnimList});
+            this.tsmAnimList,
+            this.btnAnimationDatabase});
             this.tsmHelp.Name = "tsmHelp";
             this.tsmHelp.Size = new System.Drawing.Size(44, 20);
             this.tsmHelp.Text = "Help";
@@ -262,6 +264,13 @@
             this.lbRomInfo.Size = new System.Drawing.Size(0, 13);
             this.lbRomInfo.TabIndex = 0;
             // 
+            // btnAnimationDatabase
+            // 
+            this.btnAnimationDatabase.Name = "btnAnimationDatabase";
+            this.btnAnimationDatabase.Size = new System.Drawing.Size(189, 22);
+            this.btnAnimationDatabase.Text = "Animation Database";
+            this.btnAnimationDatabase.Click += new System.EventHandler(this.btnAnimationDatabase_Click);
+            // 
             // WEMainWindow
             // 
             this.AllowDrop = true;
@@ -314,6 +323,7 @@
         private System.Windows.Forms.ToolStripMenuItem saveNarcToolStripMenuItem;
         private System.Windows.Forms.GroupBox gbxRomInfo;
         private System.Windows.Forms.Label lbRomInfo;
+        private System.Windows.Forms.ToolStripMenuItem btnAnimationDatabase;
     }
 }
 
